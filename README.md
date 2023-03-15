@@ -1,5 +1,5 @@
 # react-movie-search-app
-# Movie App - ReactJS 
+
 
 ![](movie.gif)
 
